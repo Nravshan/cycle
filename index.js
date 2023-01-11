@@ -110,7 +110,7 @@ let categories = [
     {       
         course: '   BACKEND',
         count: 0
-    },
+    },                                                                                                          
 ]
 
 for ( let item of arr) {
